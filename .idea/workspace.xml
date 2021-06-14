@@ -1,7 +1,173 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a990178-9d17-471a-8fdf-e68f7723f4b1" name="默认变更列表" comment="" />
+    <list default="true" id="8a990178-9d17-471a-8fdf-e68f7723f4b1" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/embedding7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/location.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/snowpack.config.mjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/Charactor.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/Common.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/Feature.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/FrontPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/00000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/00001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/00010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/00011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/00100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/00101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/00110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/00111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/01000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/01001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/01010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/01011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/01100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/01101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/01110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/01111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/10000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/10001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/10010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/10011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/10100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/10101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/10110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/10111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/11000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/11001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/11010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/11011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/11100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/11101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/11110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/11111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/downArrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/huihua/huihua9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/leftArrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/rightArrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/shenghuo/shenghuo9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/assets/yishu/yishu9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/dist/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/dist/Charactor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/dist/Common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/dist/Feature.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/dist/FrontPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/dist/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/types/static.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/web-test-runner.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackday-main/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_process/cqh_data_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_process/cqh_data_process.py" afterDir="false" />
+    </list>
+    <list id="0d771089-7ff4-41b9-b9d6-c65ffb98f83e" name="Big-old_luorun$_LQ 进行的更改" comment="">
+      <change beforePath="$PROJECT_DIR$/data_process/lr_demension_handle.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_process/lr_demension_handle.py" afterDir="false" />
+    </list>
+    <list id="9564bc26-e453-49ce-bdb7-5f8eadfd249f" name="chen 进行的更改" comment="">
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_process/cqh_data_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_process/cqh_data_process.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,19 +192,62 @@
       </map>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/data_process/cqh_data_process.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/app.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/data_process/lr_demension_handle.py" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/app.py">
+      <ranges>
+        <range start1="1" end1="1" start2="1" end2="3" changelist="9564bc26-e453-49ce-bdb7-5f8eadfd249f" />
+        <range start1="2" end1="2" start2="4" end2="20" changelist="8a990178-9d17-471a-8fdf-e68f7723f4b1" />
+        <range start1="5" end1="5" start2="23" end2="24" changelist="9564bc26-e453-49ce-bdb7-5f8eadfd249f" />
+        <range start1="7" end1="8" start2="26" end2="27" changelist="9564bc26-e453-49ce-bdb7-5f8eadfd249f" />
+        <range start1="9" end1="12" start2="28" end2="56" changelist="8a990178-9d17-471a-8fdf-e68f7723f4b1" />
+        <range start1="14" end1="42" start2="58" end2="59" changelist="9564bc26-e453-49ce-bdb7-5f8eadfd249f" />
+        <range start1="43" end1="45" start2="60" end2="62" changelist="9564bc26-e453-49ce-bdb7-5f8eadfd249f" />
+        <range start1="46" end1="54" start2="63" end2="64" changelist="9564bc26-e453-49ce-bdb7-5f8eadfd249f" />
+      </ranges>
+    </file>
+    <file path="$PROJECT_DIR$/data_process/cqh_data_process.py">
+      <ranges>
+        <range start1="2" end1="2" start2="2" end2="3" changelist="8a990178-9d17-471a-8fdf-e68f7723f4b1" />
+        <range start1="9" end1="11" start2="10" end2="12" changelist="9564bc26-e453-49ce-bdb7-5f8eadfd249f" />
+        <range start1="19" end1="20" start2="20" end2="21" changelist="8a990178-9d17-471a-8fdf-e68f7723f4b1" />
+        <range start1="68" end1="69" start2="69" end2="122" changelist="8a990178-9d17-471a-8fdf-e68f7723f4b1" />
+        <range start1="70" end1="71" start2="123" end2="135" changelist="8a990178-9d17-471a-8fdf-e68f7723f4b1" />
+        <range start1="72" end1="72" start2="136" end2="148" changelist="8a990178-9d17-471a-8fdf-e68f7723f4b1" />
+        <range start1="73" end1="73" start2="149" end2="157" changelist="8a990178-9d17-471a-8fdf-e68f7723f4b1" />
+        <range start1="74" end1="75" start2="158" end2="206" changelist="8a990178-9d17-471a-8fdf-e68f7723f4b1" />
+        <range start1="79" end1="80" start2="210" end2="218" changelist="8a990178-9d17-471a-8fdf-e68f7723f4b1" />
+      </ranges>
+    </file>
+  </component>
   <component name="ProjectId" id="1tsopJW86uIO57ERlusYV33TDXq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
@@ -54,6 +263,7 @@
       <recent name="G:\Cqh_files\2021华科艺术数据分析\AnalysisOfArtQuestionnaire\data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Cqh_files\2021华科艺术数据分析\AnalysisOfArtQuestionnaire" />
       <recent name="G:\Cqh_files\2021华科艺术数据分析\AnalysisOfArtQuestionnaire\data" />
     </key>
   </component>
@@ -135,8 +345,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.cqh_data_process" />
-        <item itemvalue="Python.lr_demension_handle" />
         <item itemvalue="Flask 服务器.Flask (app.py)" />
+        <item itemvalue="Python.lr_demension_handle" />
       </list>
     </recent_temporary>
   </component>
@@ -151,16 +361,31 @@
       <workItem from="1623567341211" duration="3664000" />
       <workItem from="1623571857441" duration="2989000" />
       <workItem from="1623576286471" duration="1382000" />
-      <workItem from="1623578839533" duration="974000" />
+      <workItem from="1623578839533" duration="19789000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AnalysisOfArtQuestionnaire$Flask__app_py_.coverage" NAME="Flask (app.py) 覆盖结果" MODIFIED="1623570794328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/AnalysisOfArtQuestionnaire$cqh_data_process.coverage" NAME="cqh_data_process 覆盖结果" MODIFIED="1623578932176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_process" />
+    <SUITE FILE_PATH="coverage/AnalysisOfArtQuestionnaire$AnalysisOfArtQuestionnaire.coverage" NAME="AnalysisOfArtQuestionnaire 覆盖结果" MODIFIED="1623596416239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnalysisOfArtQuestionnaire$Flask__app_py_.coverage" NAME="Flask (app.py) 覆盖结果" MODIFIED="1623605131018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AnalysisOfArtQuestionnaire$cqh_data_process.coverage" NAME="cqh_data_process 覆盖结果" MODIFIED="1623634397163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_process" />
     <SUITE FILE_PATH="coverage/AnalysisOfArtQuestionnaire$lr_demension_handle.coverage" NAME="lr_demension_handle 覆盖结果" MODIFIED="1623576732118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_process" />
   </component>
 </project>
