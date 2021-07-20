@@ -1,4 +1,4 @@
-# AnalysisOfArtQuestionnaire
+# Analysis Of Art Questionnaire
 
 
 ## [视频](https://github.com/chenqianhe/AnalysisOfArtQuestionnaire/blob/master/video.mp4)
